@@ -1,4 +1,4 @@
-# Brandes Lab @ NYU Langone
+# Brandes Lab at NYU
 
 ## Welcome to the [Brandes Lab](https://brandeslab.org) Github Repository!
 
