@@ -1,4 +1,4 @@
-# 🧬 Brandes Lab @ NYU Langone
+# Brandes Lab @ NYU Langone
 
 ## AI for Genomics
 
